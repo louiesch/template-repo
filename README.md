@@ -2,14 +2,22 @@
 
 #### _{Brief description of application}_
 
-#### By _**{List of contributors}**_
+#### By _**Louie Schoenknecht**_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _Babel_
+* _Bootstrap_
+* _clean-webpack-plugin_
+* _CSS_
+* _eslint_
+* _HTML5_
+* _JavaScript_
+* _Jest_
+* _jQuery_
+* _Node & NPM_
+* _popper.js_
+* _webpack_
 
 ## Description
 
@@ -17,13 +25,11 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _Clone repository from GitHub using: $ git clone https://github.com/louiesch/template-repo_
+* _Open project directory in terminal_
+* _Re-build project environment using command $ npm install_
+* _Create project environment using command $ npm run build_
+* _Open the project in browser using command $ npm run start_
 
 ## Known Bugs
 
@@ -32,8 +38,17 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_[MIT](https://choosealicense.com/licenses/mit/)_
+
+_Copyright (c) 2021 Louie Schoenknecht_
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Contact Information
 
-_{Add your contact information here.}_
+_Get in touch: luisesch97@gmail.com_
