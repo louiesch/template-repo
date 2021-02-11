@@ -6,18 +6,15 @@
 
 ## Technologies Used
 
-* _Babel_
-* _Bootstrap_
-* _clean-webpack-plugin_
-* _CSS_
-* _eslint_
-* _HTML5_
-* _JavaScript_
-* _Jest_
-* _jQuery_
-* _Node & NPM_
-* _popper.js_
-* _webpack_
+* _HTML5/CSS3_
+* _Bootstrap 4.6.0_
+* _JavaScript ES6_
+* _jQuery 3.5.1_
+* _Node Package Manager 6.14.9_
+* _webpack 4.39.3_
+* _Babel 7.6.4_
+* _eslint 6.3.0_
+* _Jest 24.9.0_
 
 ## Description
 
